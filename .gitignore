@@ -1,7 +1,4 @@
-/src/CommandPattern
-/src/ObserverPattern
-/src/ObserverPattern2
-
 .settings
 /bin
 .vscode
+.gitignore
